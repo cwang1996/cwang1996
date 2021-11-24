@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and creating beautiful and responsive web applications.
-- 🎓 &nbsp; Self-taught devloper.
-- 💼 &nbsp; Looking for internships and work opportunities. Give me a call!
-- 🌱 &nbsp; Currently studying and learning more about the back-end of web developement.
+- 💼 &nbsp; Looking for internships and work opportunities. Send me an [Email](mailto: calvinwang@yahoo.com).
+- 🌱 &nbsp; Currently learning more about back-end developement with tools such as MongoDB, Node.js, and Express.js.
 - ✍️ &nbsp;  When I'm not coding I like to dance to choreo or play video games.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
