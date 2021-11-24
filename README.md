@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and creating beautiful and responsive web applications.
-- 💼 &nbsp; Looking for internships and work opportunities. Send me an [Email](mailto:calvinwang@yahoo.com)
+- 💼 &nbsp; Looking for internships and work opportunities. Send me an [email](mailto:calvinwang@yahoo.com) or give me a call at (626) 688-8768!
 - 🌱 &nbsp; Currently learning more about back-end developement with tools such as MongoDB, Node.js, and Express.js.
 - ✍️ &nbsp;  When I'm not coding I like to dance to choreo or play video games.
 
